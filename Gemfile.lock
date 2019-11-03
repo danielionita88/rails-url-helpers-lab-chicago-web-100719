@@ -66,10 +66,17 @@ GEM
     diff-lcs (1.3)
     erubis (2.7.0)
     execjs (2.7.0)
+<<<<<<< HEAD
     factory_bot (5.0.2)
       activesupport (>= 4.2.0)
     factory_bot_rails (5.0.1)
       factory_bot (~> 5.0.0)
+=======
+    factory_bot (5.1.1)
+      activesupport (>= 4.2.0)
+    factory_bot_rails (5.1.1)
+      factory_bot (~> 5.1.0)
+>>>>>>> 6f177c11de872672fd8cb972133edb8556081ee5
       railties (>= 4.2.0)
     ffi (1.11.1)
     globalid (0.4.2)
@@ -129,6 +136,7 @@ GEM
       ffi (~> 1.0)
     rdoc (4.3.0)
     regexp_parser (1.6.0)
+<<<<<<< HEAD
     rspec-core (3.8.2)
       rspec-support (~> 3.8.0)
     rspec-expectations (3.8.4)
@@ -146,6 +154,25 @@ GEM
       rspec-mocks (~> 3.8.0)
       rspec-support (~> 3.8.0)
     rspec-support (3.8.2)
+=======
+    rspec-core (3.9.0)
+      rspec-support (~> 3.9.0)
+    rspec-expectations (3.9.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.9.0)
+    rspec-mocks (3.9.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.9.0)
+    rspec-rails (3.9.0)
+      actionpack (>= 3.0)
+      activesupport (>= 3.0)
+      railties (>= 3.0)
+      rspec-core (~> 3.9.0)
+      rspec-expectations (~> 3.9.0)
+      rspec-mocks (~> 3.9.0)
+      rspec-support (~> 3.9.0)
+    rspec-support (3.9.0)
+>>>>>>> 6f177c11de872672fd8cb972133edb8556081ee5
     sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
@@ -207,4 +234,8 @@ DEPENDENCIES
   uglifier (>= 1.3.0)
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.0.2
+=======
+   2.0.1
+>>>>>>> 6f177c11de872672fd8cb972133edb8556081ee5
